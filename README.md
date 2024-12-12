@@ -37,3 +37,4 @@ The current build only supports vimdoc-ja installed by [lazy.nvim](https://lazy.
 * [x] Open `*` (star)
 * [ ] Specify the directory containing vimdoc-ja
 * [ ] Add additional directories containing help
+* [ ] Open vimdoc-ja instead of Neovim doc
