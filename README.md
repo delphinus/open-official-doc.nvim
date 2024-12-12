@@ -21,7 +21,7 @@ Launch the command: `:OpenOfficialDoc` in reading help. Or, you can supply name 
 :OpenOfficialDoc change <<
 ```
 
-The last example open [https://neovim.io/doc/user/change.html#%3C%3C](https://neovim.io/doc/user/change.html#%3C%3C), that means the `<<` mapping in `change.txt`.
+The last example opens [https://neovim.io/doc/user/change.html#%3C%3C](https://neovim.io/doc/user/change.html#%3C%3C), that means the `<<` mapping in `change.txt`.
 
 ### For vimdoc-ja
 
