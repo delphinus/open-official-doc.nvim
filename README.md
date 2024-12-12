@@ -6,7 +6,7 @@ Yet another plugin to open the official doc from help in Neovim.
 
 With this plugin, you can open pages in [Documentation - Neovim](https://neovim.io/doc/) when you are reading helps in Neovim.
 
-I've borrowed this idea from an article: [NeovimのヘルプからNeovim docsを参照する](https://zenn.dev/kyoh86/articles/693909b1798383). I found some cases not to work this script, so fixed them and made up to this plugin.
+I've borrowed this idea from an article: [NeovimのヘルプからNeovim docsを参照する](https://zenn.dev/kyoh86/articles/693909b1798383). I found some cases not to work with this script, so fixed them and made up to this plugin.
 
 ## How to use
 
